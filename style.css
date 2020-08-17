@@ -1,1 +1,9 @@
 @import './main-article.css';
+@import'./header-navigation.css';
+@import './main-header.css';
+@import './section-article.css';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
